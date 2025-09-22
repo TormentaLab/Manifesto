@@ -1,4 +1,4 @@
-# TörmentäLab - 22/09/2025
+# TörmentäLab - Stormcoding Manifesto.
 (Movie Trailer Voice):
 That's the storm before the code.
 The beginning of stormcoding.
@@ -17,7 +17,7 @@ That's why i'm enrolling into an IT Engineering's bachelor at the age of 33 :-P.
 ## Why this repo?
 I know i'm pursuing a hard goal.
 It will need a lot of sacrifices, but I've already got a job and LOL I survived movie industry!
-My programming skill starts from the scratch. 
+My programming skill start from scratch. 
 I want to write repos to keep trace of my growth.
 Repos help me to document a journey that excites but also scares me.
 Every single basic step feels like a big challenge.
@@ -34,6 +34,7 @@ You can't predict the storm, you can only tell where it passed.
 
 The previous statement was for marketing.
 "Törmentä" is because I'm messy like a freakin'storm.
+
 But without it, it wouldn't be stormcoding.
 
 --
