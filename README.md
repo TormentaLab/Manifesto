@@ -33,7 +33,7 @@ Törmentä means "storm".
 You can't predict the storm, you can only tell where it passed.
 
 The previous statement was for marketing.
-"Törmentä" is because I'm messy like a freakin'storm.
+"Törmentä" is because I'm messy like a freakin' storm.
 
 But without it, it wouldn't be stormcoding.
 
